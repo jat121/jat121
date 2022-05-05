@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working as a intern in Mechlin Software Pvt. Ltd. as a Web Developer.
 
+👨‍💻I have also worked as a TA in Coding Ninjas.
+
 🌱 I’m good at React and Angular and learning Node.
 
 👯 I’m looking to collaborate with other content creators
